@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/if-elase/static/css/main.79d0dbdf.css",
+    "main.js": "/if-elase/static/js/main.d5e76661.js",
+    "index.html": "/if-elase/index.html",
+    "main.79d0dbdf.css.map": "/if-elase/static/css/main.79d0dbdf.css.map",
+    "main.d5e76661.js.map": "/if-elase/static/js/main.d5e76661.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d0dbdf.css",
+    "static/js/main.d5e76661.js"
+  ]
+}
